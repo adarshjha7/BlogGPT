@@ -1,9 +1,13 @@
  **Generative AI** refers to a type of artificial intelligence capable of generating new content, ideas, or data that mimic human-like creativity. 
  
  Key Technologies:
+ 
  **Ollama**: Platform for creating and deploying AI models.
+ 
  **LLaMA2**: Advanced language model for text generation.
+ 
  **Hugging Face**: AI community and model hub offering a variety of pre-trained models.
+ 
  **Docker Desktop**: Tool for containerizing and deploying applications
 
  Steps you need to Follow to run TellGPT:
