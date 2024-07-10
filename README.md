@@ -16,11 +16,13 @@
          
  Visit site: **https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main**
 
- Step2: **Download Ollama**.
+ Step2: **pip install -r requirements.txt**
+
+ Step3: **Download Ollama from Open-Source**.
  
- Step3: **Make a container on Docker Desktop**.
+ Step4: **Make a container on Docker Desktop**.
  
- Step4: **Run on Local Server**.
+ Step5: **Run on Local Server**.
 
 **TellGPT Output:**
 
