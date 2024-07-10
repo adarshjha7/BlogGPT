@@ -29,3 +29,5 @@
 ![GEN1](https://github.com/adarshjha7/TellGPT/assets/98156564/8a2cc7fa-554e-4abf-be8d-63d7e4260ea3)
 ![GEN2](https://github.com/adarshjha7/TellGPT/assets/98156564/dc6e302e-422a-4ae9-ad2a-bfb36d0f9ed8)
 ![GEN3](https://github.com/adarshjha7/TellGPT/assets/98156564/a603538b-2770-47c9-b4ab-8b66d779c983)
+
+![WhatsApp Image 2024-07-10 at 20 25 25_aaa8c587](https://github.com/adarshjha7/TellGPT/assets/98156564/35dade4b-ad4b-410c-8c21-7869804132e4)
