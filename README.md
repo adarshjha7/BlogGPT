@@ -9,9 +9,13 @@
  Steps you need to Follow to run TellGPT:
 
  Step1: **Download appropriate model from Hugging Face Library**.
-          Visit site: **https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main**
- Step2: **Download Ollama**. 
+         
+ Visit site: **https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main**
+
+ Step2: **Download Ollama**.
+ 
  Step3: **Make a container on Docker Desktop**.
+ 
  Step4: **Run on Local Server**.
 
 **TellGPT Output:**
